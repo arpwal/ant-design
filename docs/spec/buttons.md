@@ -127,7 +127,7 @@ title:
 
 ### 按钮顺序
 
-<img class="preview-img no-padding" align="right" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*NcPDQI3IX8YAAAAAAAAAAABkARQnAQ">
+<img class="preview-img no-padding" align="right" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*NcP******************ABkARQnAQ">
 
 推荐操作是阅读的起点，折叠内容始终在最右侧。
 

@@ -73,7 +73,7 @@ title:
 
 <img class="preview-img" align="right" alt="角色设计人物分解" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*jUujRJBxU-sAAAAAAAAAAABkARQnAQ" />
 
-<img class="preview-img" align="right" alt="HiTu 骨骼系统" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*C3NCT6QHU9QAAAAAAAAAAABkARQnAQ" />
+<img class="preview-img" align="right" alt="HiTu 骨骼系统" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*C******************AAABkARQnAQ" />
 
 <img class="preview-img" align="right" alt="人物姿态复用" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*NZuwQp_vcIQAAAAAAAAAAABkARQnAQ" />
 

@@ -100,7 +100,7 @@ title: 列表页
 
 #### 批量操作
 
-<img class="preview-img no-padding" align="right" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*NvPKR5HZQ9MAAAAAAAAAAABkARQnAQ">
+<img class="preview-img no-padding" align="right" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*NvP******************ABkARQnAQ">
 
 页级的批量操作影响整个页面，可布置于页底。
 

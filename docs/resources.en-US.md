@@ -100,7 +100,7 @@ Please find below the books that inspired us, saved our time and helped us to ov
 - Designing Interfaces #9489CF
   - https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*slN2QpTvIs0AAAAAAAAAAABkARQnAQ
   - Interface Design Guidelines
-  - https://www.amazon.com/Designing-Interfaces-Patterns-Effective-Interaction/dp/1449379702/ref=pd_sbs_14_t_1/131-2623973-6077764?_encoding=UTF8&pd_rd_i=1449379702&pd_rd_r=ebe12a8d-435f-474b-a593-72aadf26c45a&pd_rd_w=18rob&pd_rd_wg=bhRFl&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=8V8CD0EE336ZZEG15DEN&psc=1&refRID=8V8CD0EE336ZZEG15DEN
+  - https://www.amazon.com/Designing-Interfaces-Patterns-Effective-Interaction/dp/1449379702/ref=pd_sbs_14_t_1/131-2623973-6077764?_encoding=UTF8&pd_rd_i=1449379702&pd_rd_r=ebe12a8d-435f-474b-a593-72aadf26c45a&pd_rd_w=18rob&pd_rd_wg=bhRFl&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=8V8CD0EE336ZZEG15DEN&psc=1&refRID=8******************N
 - Non-Designer's Design Book, The, 4th Edition #FAF0CD
   - https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*1HbNSIju7pEAAAAAAAAAAABkARQnAQ
   - Basic Principles of Good Design

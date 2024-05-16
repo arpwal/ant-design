@@ -19,7 +19,7 @@ title: 空状态
 
 <div class="design-inline-cards">
   <div>
-    <img src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*q5MRQ6TBR0EAAAAAAAAAAABkARQnAQ" />
+    <img src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*q5******************AABkARQnAQ" />
     <div>
       <h4>明确</h4>
       <p>通过使用清晰明了的语言、插画等形式告知用户空状态的具体原因。</p>
