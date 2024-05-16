@@ -62,7 +62,7 @@ title: 可视化
 
 #### 占比类
 
-<img class="preview-img no-padding" align="right" description="代表类型：环图、饼图、百分比堆叠类型图表等" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*52XJRK9B0KUAAAAAAAAAAABkARQnAQ" />
+<img class="preview-img no-padding" align="right" description="代表类型：环图、饼图、百分比堆叠类型图表等" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*5******************AAABkARQnAQ" />
 
 显示同一维度上占比关系。
 
